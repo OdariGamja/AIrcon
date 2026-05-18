@@ -28,7 +28,7 @@
 - HTML / JavaScript
 - Wi-Fi
 - SCT-013 Current Sensor
-- 
+
 ## Web Application
 
 [Open Web App](https://aircon-cc3d0.web.app/)
