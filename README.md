@@ -34,8 +34,10 @@
 [Open Web App](https://aircon-cc3d0.web.app/)
 
 
-## Image
-<img width="540" height="1170" alt="Screenshot_20260519_013549" src="https://github.com/user-attachments/assets/f0af3e44-b8ce-469d-ae6f-b583a0861e79" />
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f0af3e44-b8ce-469d-ae6f-b583a0861e79" width="45%" />
+  <img src="https://github.com/user-attachments/assets/240b8f7a-c851-4e6b-8b50-47d5f18f371f" width="45%" />
+</p>
 
 <img width="2040" height="1536" alt="260511124420425" src="https://github.com/user-attachments/assets/95be0922-effb-4fee-8e1a-af419c571c82" />
 
